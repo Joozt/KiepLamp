@@ -10,3 +10,5 @@ KiepLamp.exe -ip 192.168.0.2 -scene 8
 ```
 
 ![Vera](VeraLite.jpg "Vera")
+
+See [KiepProjects](https://github.com/Joozt/KiepProjects) for an overview of all Kiep projects.
